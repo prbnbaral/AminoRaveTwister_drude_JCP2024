@@ -1,0 +1,2 @@
+drude_toppar_2020/toppar_drude_master_protein_2020b.str   ! master, includes protein, water and ions (must be read first)
+drude_toppar_2020/toppar_drude_nucleic_acid_2020b.str   ! DNA
