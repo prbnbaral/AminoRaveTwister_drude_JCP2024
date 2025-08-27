@@ -117,7 +117,7 @@ Customize metadynamics and deep learning parameters in the corresponding section
 
 ## Dependencies
 
-The following Python packages are required:
+The following Python packages were used:
 
 ```
 keras==2.8.0
