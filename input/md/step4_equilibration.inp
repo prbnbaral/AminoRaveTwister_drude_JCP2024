@@ -3,7 +3,7 @@ mini_Tol         = 100.0                             # Minimization energy toler
 
 gen_vel          = yes                               # Generate initial velocities
 gen_temp         = 300                            # Temperature for generating initial velocities (K)
-gen_seed         = 1517513894                        # Seed for generating initial velocities
+gen_seed         =  1517513894                        # Seed for generating initial velocities
 
 nstep            = 20000                            # Number of steps to run
 dt               = 0.0005                            # Time-step (ps)

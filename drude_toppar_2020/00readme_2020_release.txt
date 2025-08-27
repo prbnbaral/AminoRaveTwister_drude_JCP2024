@@ -1,4 +1,4 @@
-Overview of the 2020 polarizable Drude oscillator force field release.
+**Overview of the 2020 polarizable Drude oscillator force field release.
 May 2020
 
 NOTE: The lipid or nucleic acid toppar files include the update of the

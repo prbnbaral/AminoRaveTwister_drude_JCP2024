@@ -8,6 +8,7 @@ Read and cite the following when using this method:
 https://pubs.rsc.org/--/content/articlehtml/2020/me/c9me00115h
 """
 
+
 import numpy as np
 from sklearn.neighbors import KernelDensity
 import copy
